@@ -7,6 +7,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * Created by XJX on 2017/4/20.
+ * 构建线程池
  */
 public class TimeServerHandlerExecutePool {
 
