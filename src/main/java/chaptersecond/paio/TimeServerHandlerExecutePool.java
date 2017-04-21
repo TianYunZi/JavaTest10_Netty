@@ -21,4 +21,8 @@ public class TimeServerHandlerExecutePool {
     public void execute(Runnable task) {
         executorService.execute(task);
     }
+
+    public void shutdown() {
+        executorService.shutdown();
+    }
 }
