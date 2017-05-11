@@ -19,5 +19,11 @@
     <orderEntry type="library" name="Maven: io.netty:netty-common:4.0.23.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-transport:4.0.23.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-codec:4.0.23.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http:4.0.43.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.msgpack:msgpack:0.6.12" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.javassist:javassist:3.18.1-GA" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.marshalling:jboss-marshalling:1.4.11.Final" level="project" />
   </component>
 </module>
